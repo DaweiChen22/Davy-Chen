@@ -1,0 +1,32 @@
+{
+  "name": "Davy Chen",
+  "headline": "Lead AI Engineer & Software Architect",
+  "expertise": [
+    "Autonomous Robotics",
+    "Semantic Search",
+    "NLP",
+    "Data Engineering"
+  ],
+  "history": [
+    {
+      "company": "Agtonomy",
+      "role": "Head of Software Services",
+      "focus": "Agricultural Autonomy"
+    },
+    {
+      "company": "Skycatch",
+      "role": "CTO",
+      "focus": "Drone Intelligence"
+    },
+    {
+      "company": "Google",
+      "role": "Software Engineer",
+      "focus": "Knowledge Graph"
+    }
+  ],
+  "education": "Master of Computer Science",
+  "accolades": [
+    "Codeforces Top 150",
+    "Meta Hacker Cup Top 1000"
+  ]
+}
